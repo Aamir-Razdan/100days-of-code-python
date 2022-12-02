@@ -1,4 +1,4 @@
-No=input("enter a number") 
+No=input("enter number") 
 if(No%2=0):
     Print(No+"is even number")
 else:
